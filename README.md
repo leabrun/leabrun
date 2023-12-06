@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo"/>
 </p>
 
-
-<b>My Job stats</b>
+<h2 align="center">Job stats</h2>
+<p align="center">
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=leabrun&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</p>
