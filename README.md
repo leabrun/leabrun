@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <h2 align="center">Job stats</h2>
