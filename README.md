@@ -1,7 +1,6 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/leabrun/leabrun/images/header.png" />
 
 <h2 align="center">Technology Stack</h2>
 
