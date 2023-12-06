@@ -16,5 +16,5 @@
 
 <h2 align="center">Job stats</h2>
 <p align="center">
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=leabrun&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+    <img src="https://leetcode-stats-six.vercel.app/api?username=leabrun&theme=dark"/>
 </p>
