@@ -10,8 +10,11 @@
     <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Celery-2CA043?style=for-the-badge&logo=celery&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
 <h2 align="center">Job stats</h2>
