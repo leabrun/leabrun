@@ -6,7 +6,6 @@
 <p align="center">
     I've been learning Python since 2021 and I'm currently pursuing a degree in 'Network and Systems Administration' at college. This educational background has allowed me to deeply immerse myself in network programming. I like to explore new technologies and experiment with them to solve problems. See you in web!
 </p align="center">
-
 <br>
 
 <h2 align="center">Technology Stack</h2>
@@ -29,6 +28,8 @@
     <img  src = "https://github-readme-stats.vercel.app/api?username=leabrun&hide=contribs,prs&theme=dark">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leabrun&layout=compact&theme=dark">
 </p>
+
+<h2 align="center">Leetcode stats</h2>
 
 <p align="center">
     <img src="https://leetcode-stats-six.vercel.app/api?username=leabrun&theme=dark"/>
