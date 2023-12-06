@@ -1,10 +1,9 @@
 <p align="center">
  
 </p align="center">
+<img src="https://github.com/leabrun/leabrun/blob/main/images/header.png" />
 
 <p align="center">
-    <img src="https://github.com/leabrun/leabrun/blob/main/images/header.png" />
-    
     I've been learning Python since 2021 and I'm currently pursuing a degree in 'Network and Systems Administration' at college. This educational background has allowed me to deeply immerse myself in network programming. I like to explore new technologies and experiment with them to solve problems. See you in web!
 </p align="center">
 
