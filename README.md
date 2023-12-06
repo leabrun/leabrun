@@ -26,7 +26,7 @@
 
 <h2 align="center">Job stats</h2>
 <p align="center">
-    <img  src = "https://github-readme-stats.vercel.app/api?username=leabrun&show_icons=true&theme=dark&line_height=27">
+    <img  src = "https://github-readme-stats.vercel.app/api?username=leabrun&show_icons=true&theme=dark">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leabrun&theme=dark">
 </p>
 
